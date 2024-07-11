@@ -1,10 +1,10 @@
 [package]
-name = "stamp"
+name = "stampsmith"
 version = "0.0.1"
 edition = "2021"
-description = "Stamp is a fast and portable Cookiecutter-compatible tool that generates projects from project templates. It is designed to be a drop-in replacement for Cookiecutter, but with a focus on speed and portability."
+description = "Stampsmith is a fast and portable Cookiecutter-compatible tool that generates projects from project templates. It is designed to be a drop-in replacement for Cookiecutter, but with a focus on speed and portability."
 license = "PolyForm-Small-Business-1.0.0 AND Hippocratic-2.1"
-repository = "https://github.com/acovaci/stamp"
+repository = "https://github.com/acovaci/stampsmith"
 readme = "README.md"
 categories = [
     "command-line-utilities",

@@ -329,7 +329,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "stamp"
+name = "stampsmith"
 version = "0.0.1"
 dependencies = [
  "assert_cmd",

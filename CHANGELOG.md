@@ -18,5 +18,5 @@ and this project adheres to [Semantic Versioning].
 [semantic versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Versions -->
-[unreleased]: https://github.com/acovaci/stamp/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/acovaci/stamp/releases/tag/v0.0.1
+[unreleased]: https://github.com/acovaci/stampsmith/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/acovaci/stampsmith/releases/tag/v0.0.1

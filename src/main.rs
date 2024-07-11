@@ -1,7 +1,7 @@
 use std::path::PathBuf;
 
 use clap::Parser;
-use stamp::core::{render::render_template, uri::TemplateURI};
+use stampsmith::core::{render::render_template, uri::TemplateURI};
 
 #[derive(clap::Parser)]
 struct StampCLI {

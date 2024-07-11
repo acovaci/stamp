@@ -1,17 +1,17 @@
-# Stamp - a fast and portable Cookiecutter
+# Stampsmith - a fast and portable Cookiecutter
 
-Stamp is a fast and portable Cookiecutter-compatible tool that generates projects from project
+Stampsmith is a fast and portable Cookiecutter-compatible tool that generates projects from project
 templates. It is designed to be a drop-in replacement for Cookiecutter, but with a focus on speed
 and portability.
 
-Unlike Cookiecutter, Stamp is written in Rust, has no dependencies, and does not require Python (or
+Unlike Cookiecutter, Stampsmith is written in Rust, has no dependencies, and does not require Python (or
 any other runtime) to be installed on the system. This makes it ideal for use in environments where
 Python is not available or where you want to avoid the overhead of installing Python and its
 dependencies.
 
 ## Contributing
 
-I am more than happy to accept contributions to Stamp, in any form.
+I am more than happy to accept contributions to Stampsmith, in any form.
 
 You can help out this project in one of the following ways:
 * Reporting bugs via the *Issues* tab.
