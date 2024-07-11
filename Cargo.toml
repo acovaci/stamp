@@ -1,0 +1,27 @@
+[package]
+name = "stamp"
+version = "0.0.1"
+edition = "2021"
+description = "Stamp is a fast and portable Cookiecutter-compatible tool that generates projects from project templates. It is designed to be a drop-in replacement for Cookiecutter, but with a focus on speed and portability."
+license = "PolyForm-Small-Business-1.0.0 AND Hippocratic-2.1"
+repository = "https://github.com/acovaci/stamp"
+readme = "README.md"
+categories = [
+    "command-line-utilities",
+    "command-line-interface",
+    "development-tools",
+    "filesystem",
+    "template-engine",
+]
+keywords = ["cookiecutter", "template", "project"]
+
+[dependencies]
+clap = { version = "4.5.9", features = ["derive"] }
+minijinja = "2.0.3"
+thiserror = "1.0.61"
+
+[dev-dependencies]
+assert_cmd = { version = "2.0.14", features = ["color-auto"] }
+dir-assert = "0.2.0"
+predicates = "3.1.0"
+uuid = { version = "1.10.0", features = ["v4"] }
